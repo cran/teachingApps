@@ -1,4 +1,19 @@
-teachingApps is a soon-to-be-published software package for crowd-sourcing the creation of math & stats-based web apps. The goal of the package is to make teaching and learning complex math/stats concepts really fast and really easy.
+---
+output: 
+  html_document:
+    self_contained: no
+    keep_md: yes
+---
+
+[![Build Status](https://api.travis-ci.org/Auburngrads/teachingApps.svg?branch=master)](https://travis-ci.org/Auburngrads/teachingApps)
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/Auburngrads/teachingApps?branch=master&svg=true)](https://ci.appveyor.com/project/Auburngrads/teachingApps)
+[![Coverage Status](https://codecov.io/github/Auburngrads/teachingApps/coverage.svg?branch=master)](https://codecov.io/github/Auburngrads/teachingApps?branch=master)
+[![CRAN_Status_Badge](https://r-pkg.org/badges/version/teachingApps)](https://cran.r-project.org/package=teachingApps)
+[![Downloads](https://cranlogs.r-pkg.org/badges/teachingApps)](https://cranlogs.r-pkg.org/badges/teachingApps)
+[![Total Downloads](https://cranlogs.r-pkg.org/badges/grand-total/teachingApps)](https://cranlogs.r-pkg.org/badges/grand-total/teachingApps)
+
+
+teachingApps is a software package for crowd-sourcing the creation of math & stats-based web apps. The goal of the package is to make teaching and learning complex math/stats concepts really fast and really easy.
 
 In this talk Maj Jason Freels (ENV) presents some of the 135 apps that have already been built into the package and outlines how these apps can be used to:
  
