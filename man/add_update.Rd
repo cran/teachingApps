@@ -48,8 +48,8 @@ This function enables ultra-fast updates to shiny apps without
          directory in which the css files are stored.
 }
 \examples{
-# In the \\code{teachingApps} package, apps are stored in the 
-# \\code{inst/apps/} directory. 
+# In the \code{teachingApps} package, apps are stored in the 
+# \code{inst/apps/} directory. 
 \dontrun{ 
 teachingApps::add_update(local_pkg = file.choose(),
                          'apps',
